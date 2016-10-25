@@ -20,9 +20,9 @@ resource list about QA/NLP/NLG/DL/ML/Dialogue/IE/AI etc.
 ------
 8.&nbsp;Dialogue</p>
 ------
-        a）The 17th Annual SIGdial Meeting on Discourse and Dialogue (SIGDIAL 2016)：http://www.sigdial.org/workshops/conference17/
-        b）Fifth Dialog State Tracking Challenge：http://workshop.colips.org/dstc5/data.html
-9.&nbsp;图像识别
+        a）The 17th Annual SIGdial Meeting on Discourse and Dialogue (SIGDIAL 2016)：http://www.sigdial.org/workshops/conference17/ </p>
+        b）Fifth Dialog State Tracking Challenge：http://workshop.colips.org/dstc5/data.html </p>
+9.&nbsp;图像识别</p>
 ------
 10.&nbsp;AI人工智能</p>
 ------
