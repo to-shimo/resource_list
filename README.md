@@ -26,3 +26,4 @@ resource list about QA/NLP/NLG/DL/ML/Dialogue/IE/AI etc.
 ------
 10.&nbsp;AI人工智能</p>
 ------
+    a）游戏革命：情感AI带来的新体验：http://www.jiqizhixin.com/article/1644
