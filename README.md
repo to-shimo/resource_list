@@ -4,12 +4,12 @@ resource list about QA/NLP/NLG/DL/ML/Dialogue/IE/AI etc.
 
 1.&nbsp;QA问答</p>
 ------
-    a）IBM watson论文集：https://pan.baidu.com/s/1qY9yt8C</p>
+        a）IBM watson论文集：https://pan.baidu.com/s/1qY9yt8C</p>
 2.&nbsp;NLP自然语言处理</p>
 ------
 3.&nbsp;NLG自然语言生成</p>
 ------
-      a）一些关于NLG的论文：https://pan.baidu.com/s/1eSqbeN4</p>
+        a）一些关于NLG的论文：https://pan.baidu.com/s/1eSqbeN4</p>
 4.&nbsp;ML机器学习</p>
 ------
 5.&nbsp;DeepLearning深度学习</p>
