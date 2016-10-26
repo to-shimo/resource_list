@@ -5,8 +5,7 @@ resource list about QA/NLP/NLG/DL/ML/Dialogue/IE/AI etc.
 1.&nbsp;QA问答</p>
 ------
     a）IBM watson论文集：https://pan.baidu.com/s/1qY9yt8C
-2.&nbsp;NLP自然语言处理</p>
-------
+    b）【基于知识的问答(QA)】《Knowledge Based Question Answering - YouTube》by Kun Xu：https://www.youtube.com/watch?v=bwAGtKqkNGU
 3.&nbsp;NLG自然语言生成</p>
 ------
     a）一些关于NLG的论文：https://pan.baidu.com/s/1eSqbeN4
